@@ -1,1 +1,0 @@
-This folder has libaries for 32 BIT software
