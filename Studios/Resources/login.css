@@ -1,3 +1,7 @@
 #login {
     border: black 1px solid;
 }
+body {
+    text-align: center;
+    background-color: lightblue;
+}
